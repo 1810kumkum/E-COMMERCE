@@ -14,7 +14,7 @@ A modern eCommerce website built using [React](https://reactjs.org/) and [Node.j
 
 ## Technologies Used
 
-- **Frontend:** React, Redux, Axios, Bootstrap
+- **Frontend:** React, Redux
 - **Backend:** Node.js, Express.js, MongoDB
 - **Authentication:** JWT (JSON Web Tokens)
 - **Payment Gateway:** Stripe
